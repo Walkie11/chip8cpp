@@ -1,3 +1,4 @@
+// WAlkie LeblancTIDE
 export module VideoBuffer;
 
 export import IVideoBuffer;
